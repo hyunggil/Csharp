@@ -1,1 +1,7 @@
 2/26일 강의내용 깃허브 이용법
+
+unity세팅
+edit-preperence-external tools-external script editor 가 버츄얼스튜디오로 됬는지 확인한다.
+window-generel-consol 을 연다.-화면에 배치시킨다.
+project-...-two culumn layout 적당한 아이콘 크기로 만들어 놓는다.
+
