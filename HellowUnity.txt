@@ -1,0 +1,12 @@
+using UnityEngine;
+public class HellowUnity : MonoBehaviour
+{
+void Start()
+{
+Debug.Log("HellowUnity!!");
+Debug.Log("123456789");
+}
+void Update()
+{
+}
+}
