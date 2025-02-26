@@ -4,4 +4,5 @@ unity세팅
 edit-preperence-external tools-external script editor 가 버츄얼스튜디오로 됬는지 확인한다.
 window-generel-consol 을 연다.-화면에 배치시킨다.
 project-...-two culumn layout 적당한 아이콘 크기로 만들어 놓는다.
-
+영어 첫글자는 왠만 하면 대문자로 만들어 놓는다.
+코딩 글꼴은 consolas
