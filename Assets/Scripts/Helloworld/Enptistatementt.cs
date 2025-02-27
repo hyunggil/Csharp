@@ -1,20 +1,24 @@
 using UnityEngine;
 
-public class Helloworldprective : MonoBehaviour
+//공문
+public class Enptistatementt : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        /* Debug.Log("Hello Unity!!!");
-         Debug.Log("123456789");
-        */
-        Debug.Log("Hello Unity!!!\n123456789");
-
+        ;
+        ;
+        ;
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
+/*
+ c# 기본문법
+Syntax(문법) :반드시 지켜야 하는 규칙
+스타일: 프로그램 작성에 대한 가이드
+ */

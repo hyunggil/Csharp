@@ -1,0 +1,31 @@
+2/27
+//한줄주석
+/*
+다줄주석
+*/
+들여쓰기: 공백 4칸 또는 탭사용. 기본이다.!!!
+WhiteSpace(공백): 공백은 프로그램을 무시, 가독성을 높일수 있다.
+\한줄공백
+\n줄바꿈
+"큰따옴표"
+'작은따옴표'
+int 변수형 정수 선언
+	//예] 	int = i;
+		i = 123;
+		Debug.Log(i);
+	결과값: 123
+int num;		//정수형 변수
+double su; 	//실수형 변수
+bool flag; 	//부울형 변수
+string str; 	//문자열 변수
+char c; 		//문자형 변수
+num = 1234;
+su = 3.14;
+flag = true;
+string = "Hi";
+char = a;
+
+const 		//변하지 않는 상수
+	const int A = 100;
+	Debug.Log(A);
+	결과값 100
