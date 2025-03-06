@@ -7,7 +7,7 @@ public class Else : MonoBehaviour
     {
         if(1 != 1)
         {
-            Debug.Log("조건이 참이면 실행한다.");
+            //Debug.Log("조건이 참이면 실행한다.");
         }
         else
         {
