@@ -10,7 +10,6 @@ public class ForSumPrectice : MonoBehaviour
         {
             sum = sum + i;
         }
-        Debug.Log($"¥‰¿∫ {sum}");
         int sum1 = 0;
         for(int j = 1; j < 101; j = j+4)
         {
