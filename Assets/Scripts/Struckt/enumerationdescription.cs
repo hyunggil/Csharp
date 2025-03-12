@@ -3,7 +3,7 @@ using UnityEngine;
 
 //[1]우선순위를 관리하는 열거형 생성(선언, 만들기)
 //사용자 정의 데이터 형식
-enum priority
+enum Priority
 {
     High,
     Nomal,
