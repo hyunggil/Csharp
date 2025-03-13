@@ -8,7 +8,7 @@ public class StringEqore : MonoBehaviour
         string userName = "RedPlus";
         string inputName = "redPlus";
         //[1]연산자 더블이콜(==)연산자 사용하여 비교
-        if (userName.ToLower() == inputName.ToLower()) ;
+        if (userName.ToLower() == inputName.ToLower());
         {
             Debug.Log("[1]같습니다.");
         }
