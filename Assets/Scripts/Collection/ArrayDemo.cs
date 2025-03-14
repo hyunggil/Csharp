@@ -1,7 +1,7 @@
 using UnityEngine;
 
-//Collection(ÄÃ·º¼Ç) : ¹è¿­Ã³·³ Æ¯Á¤ Ç×¸ñÀÇ ÁıÇÕÀ» °ü¸®ÇÏ´Â ±×¸©
-//: ¹è¿­, ¸®½ºÆ®, µñ¼Å³Ê¸®, µîÀ» »ç¿ëÇÏ¿© °ü·Ã °´Ã¼ÀÇ ±×·ìÀ» ¸¸µé°í °ü¸®ÇÑ´Ù.
+//Collection(ì»¬ë ‰ì…˜) : ë°°ì—´ì²˜ëŸ¼ íŠ¹ì • í•­ëª©ì˜ ì§‘í•©ì„ ê´€ë¦¬í•˜ëŠ” ê·¸ë¦‡
+//: ë°°ì—´, ë¦¬ìŠ¤íŠ¸, ë”•ì…”ë„ˆë¦¬, ë“±ì„ ì‚¬ìš©í•˜ì—¬ ê´€ë ¨ ê°ì²´ì˜ ê·¸ë£¹ì„ ë§Œë“¤ê³  ê´€ë¦¬í•œë‹¤.
 
 public class ArrayDemo : MonoBehaviour
 {
@@ -9,7 +9,7 @@ public class ArrayDemo : MonoBehaviour
     void Start()
     {
         string[] colors = { "Red", "Green", "Blue" };
-        Debug.Log($"¹è¿­ÀÇ ¿ä¼Ò¼ö °¹¼ö:{colors.Length}");
+        Debug.Log($"ë°°ì—´ì˜ ìš”ì†Œìˆ˜ ê°¯ìˆ˜:{colors.Length}");
         for (int i = 0; i < colors.Length; i++)
         {
             Debug.Log(colors[i]);
