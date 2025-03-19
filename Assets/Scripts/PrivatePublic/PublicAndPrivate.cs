@@ -23,6 +23,9 @@ namespace PrivatePublic
 
             //[5] Car 클래스의 객체를 통해 private한 메서드에 접근해서 사용
             //myCar.Bye();    //error
+            myCar.SetAge(21);
+            int myAge = myCar.GetAge();
+            Debug.Log(myAge);
         }
     }
 }

@@ -1,5 +1,5 @@
 using UnityEngine;
-//¹®ÀÚ¿­ ºñ±³ÇÏ±â - 2°¡Áö ¹æ¹ı
+//ë¬¸ìì—´ ë¹„êµí•˜ê¸° - 2ê°€ì§€ ë°©ë²•
 public class StringEqore : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -7,15 +7,15 @@ public class StringEqore : MonoBehaviour
     {
         string userName = "RedPlus";
         string inputName = "redPlus";
-        //[1]¿¬»êÀÚ ´õºíÀÌÄİ(==)¿¬»êÀÚ »ç¿ëÇÏ¿© ºñ±³
-        if (userName.ToLower() == inputName.ToLower());
+        //[1]ì—°ì‚°ì ë”ë¸”ì´ì½œ(==)ì—°ì‚°ì ì‚¬ìš©í•˜ì—¬ ë¹„êµ
+        if (userName.ToLower() == inputName.ToLower()) ;
         {
-            Debug.Log("[1]°°½À´Ï´Ù.");
+            Debug.Log("[1]ê°™ìŠµë‹ˆë‹¤.");
         }
-        //[2] string.Equal()¸Ş¼­µå »ç¿ë.
+        //[2] string.Equal()ë©”ì„œë“œ ì‚¬ìš©.
         if (string.Equals(userName, inputName, System.StringComparison.InvariantCultureIgnoreCase));
         {
-            Debug.Log("[2]°°½À´Ï´Ù.");
+            Debug.Log("[2]ê°™ìŠµë‹ˆë‹¤.");
         }
     }
 }
