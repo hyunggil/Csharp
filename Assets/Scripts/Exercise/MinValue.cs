@@ -20,7 +20,7 @@ namespace Exer
 
         
         int FindMinValue(int[] values)
-        {
+        {   
             int min = values[0]; 
 
             

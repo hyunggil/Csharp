@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
-//제네릭 리스트: 배ㅕㄹ, 제네릭 리스트 비교
+//제네릭 리스트: 배열, 제네릭 리스트 비교
 public class ListOfInt : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
