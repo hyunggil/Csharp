@@ -8,11 +8,11 @@ public class Exercise : MonoBehaviour
         int i = 100;
         int j = 200;
         int temp;
-        Debug.Log($"Ã³À½¿¡´Â i: {i} , j: {j}");
+        Debug.Log($"ì²˜ìŒì—ëŠ” i: {i} , j: {j}");
         temp = i;
         i = j;
         j = temp;
-        Debug.Log($"º¯°æÈÄ i: {i} , j: {j}");
+        Debug.Log($"ë³€ê²½í›„ i: {i} , j: {j}");
     }
 
 }
